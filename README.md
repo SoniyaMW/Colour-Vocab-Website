@@ -1,2 +1,2 @@
 # Colour-Vocab-Website
-Building a website to learn colors in Spanish.
+This is a Color Vocabulary Project Using HTML And CSS
