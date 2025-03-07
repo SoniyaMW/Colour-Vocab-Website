@@ -1,2 +1,2 @@
 # Colour-Vocab-Website
-This is a Color Vocabulary Project Using HTML And CSS.
+This is a color vocabulary project using HTML and CSS.
